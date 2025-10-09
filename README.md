@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋, I'm Xuan Khanh Thai
 
-<!--
-**thaixuankhanh/thaixuankhanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+📈 ![Profile views](https://komarev.com/ghpvc/?username=thaixuankhanh&label=Profile%20views&color=brightgreen&style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+
+![Khanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaixuankhanh&show_icons=true&theme=tokyonight)
+
+### 💻 Top Language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaixuankhanh&layout=compact&theme=tokyonight)
+
+
